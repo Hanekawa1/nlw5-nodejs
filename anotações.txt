@@ -1,0 +1,4 @@
+yarn add @types/express -D = instalação das tipagens do typescript
+yarn add typescript -D = adição do typescript no projeto
+yarn tsc --init = inicialização do arquivo de configuração do typescript
+yarn add ts-node-dev = "tradutor" da sintaxe es5
